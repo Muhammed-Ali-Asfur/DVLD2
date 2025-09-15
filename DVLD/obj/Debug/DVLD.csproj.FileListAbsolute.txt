@@ -1,0 +1,685 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.exe
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.CopyComplete
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.frmNewApplication.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.frmNewApplication2.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.frmTest.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmPersonCardDetails.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.exe
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmListApplications.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmListLicenseTestAppointment.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestAppoinments.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.DriverLicense.ctrlDriverLicenseInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmIssueDriverLicenseFirstTime.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmShowLicenseInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestAppointments.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowPersonLicenseHistory.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmListInternationalLicesnseApplications.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Licenses.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\bin\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\bin\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmListInternationalLicesnseApplications.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowPersonLicenseHistory.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.DriverLicense.ctrlDriverLicenseInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmIssueDriverLicenseFirstTime.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmShowLicenseInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestAppointments.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\bin\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\bin\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmListInternationalLicesnseApplications.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowPersonLicenseHistory.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.DriverLicense.ctrlDriverLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmIssueDriverLicenseFirstTime.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmShowLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestAppointments.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\BittirmeProjesi\DVLD Project Final\Project\DVLD\obj\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\bin\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\bin\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmListInternationalLicesnseApplications.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Licenses.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowPersonLicenseHistory.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.DriverLicense.ctrlDriverLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmIssueDriverLicenseFirstTime.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmShowLicenseInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestAppointments.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\BittirmeProjesi\Project\DVLD\obj\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmListInternationalLicesnseApplications.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Licenses.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowPersonLicenseHistory.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.DriverLicense.ctrlDriverLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmIssueDriverLicenseFirstTime.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.DriverLicense.frmShowLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestAppointments.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.exe.config
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Core.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\MimeKit.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Memory.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Core.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\MimeKit.pdb
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\MimeKit.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Memory.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windos10\Desktop\Project\DVLD\obj\Debug\DVLD.People.frmSendEmail.resources
+C:\Users\Windos10\Desktop\Project\DVLD\bin\Debug\credentials.json
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\credentials.json
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Azure.Core.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Azure.Identity.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Core.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\MimeKit.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.ClientModel.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Memory.Data.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Memory.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Azure.Core.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Azure.Identity.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Core.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\MimeKit.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\MimeKit.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.ClientModel.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Memory.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Memory.Data.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.exe.config
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.International_License.frmListInternationalLicesnseApplications.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Licenses.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowPersonLicenseHistory.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.People.frmSendEmail.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.DriverLicense.ctrlDriverLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.DriverLicense.frmIssueDriverLicenseFirstTime.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.DriverLicense.frmShowLicenseInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.frmListTestAppointments.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\Project2\DVLD\obj\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\credentials.json
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\DVLD.exe.config
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\DVLD.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Azure.Core.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Azure.Identity.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\DVLD_Buisness.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Core.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\MimeKit.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Buffers.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.ClientModel.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Memory.Data.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Memory.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Text.Json.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.ValueTuple.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Azure.Core.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Azure.Identity.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Core.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\MimeKit.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\MimeKit.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Buffers.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.ClientModel.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Memory.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Memory.Data.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Text.Json.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\System.ValueTuple.xml
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.exe.config
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmListDetainedLicenses.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.Rlease_Detained_License.frmReleaseDetainedLicenseApplication.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.Detain_License.frmDetainLicenseApplication.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.International_License.frmListInternationalLicesnseApplications.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.International_License.frmNewInternationalLicenseApplication.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.frmAddUpdateLocalDrivingLicesnseApplication.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.frmEditApplicationType.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.frmManageApplicationTypes.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.frmLocalDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlApplicationBasicInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Controls.ApplicationControls.ctrlDrivingLicenseApplicationInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Applications.ReplaceLostOrDamagedLicense.frmReplaceLostOrDamagedLicenseApplication.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Drivers.frmListDrivers.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Licenses.frmRenewLocalDrivingLicenseApplication.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.Controls.ctrlDriverInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Licenses.International_Licenses.frmShowInternationalLicenseInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Licenses.Controls.ctrlDriverLicenseInfoWithFilter.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Licenses.International_License.frmShowPersonLicenseHistory.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Licenses.Local_Licenses.Controls.ctrlDriverLicenses.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCard.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.People.frmSendEmail.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Controls.ctrlUserCard.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.DriverLicense.ctrlDriverLicenseInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.DriverLicense.frmIssueDriverLicenseFirstTime.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.DriverLicense.frmShowLicenseInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.frmMain.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Login.frmLogin.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.People.frmAddUpdatePerson.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.People.frmFindPerson.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.People.frmListPeople.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.People.frmShowPersonInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.ctrlScheduleTest.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.ctrlSecheduledTest.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.frmEditTestType.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.frmListTestAppointments.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.frmListLocalDrivingLicesnseApplications.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.frmListTestTypes.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.frmScheduleTest.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.Tests.frmTakeTest.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.User.frmAddUpdateUser.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.User.frmChangePassword.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.User.frmListUsers.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.User.frmUserInfo.resources
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.csproj.Up2Date
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.exe
+C:\Users\Windos10\Desktop\Projecv\Project2\DVLD\obj\Debug\DVLD.pdb
