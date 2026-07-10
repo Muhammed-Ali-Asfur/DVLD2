@@ -1,48 +1,49 @@
+# 🚗 DVLD - Driving & Vehicle License Management System (C#)
 
----
+A desktop-based **Driving & Vehicle License Management System** developed with **C# Windows Forms** to digitalize and simplify license management processes.
 
-## 1. Proje Tanımı
-DVLD, kurum içi veri yönetimini kolaylaştırmak ve lisanslama süreçlerini dijitalleştirmek için geliştirilmiş Windows Forms tabanlı bir masaüstü uygulamasıdır.  
+The application provides a structured solution for managing personal records, license operations, user access, and institutional workflows through a scalable **3-Layer Architecture**.
 
-Uygulama kullanıcı dostu arayüzü ve katmanlı mimarisi ile:  
-- Personel verilerini düzenleme  
-- E-posta bildirimleri gönderme  
-- Kurum içi iş süreçlerini otomatikleştirme  
+## 🚀 Features
 
-işlemlerini sağlar. Sürdürülebilir ve genişletilebilir bir yapıya sahiptir.
+- 👤 **Person Management**
+  - Add, update, delete, search and manage personal information.
 
----
+- 🪪 **License Management**
+  - Manage driving license-related processes and records.
 
-## 2. Çözdüğü Problemler
-- **Manuel süreçleri dijitalleştirir:** Zaman alan ve hataya açık manuel işlemleri otomatikleştirir.  
-- **Veri erişimini merkezileştirir:** SQL Server veritabanı ile tüm veriler merkezi olarak saklanır ve yetkili kullanıcılar tarafından hızlıca erişilebilir.  
-- **İletişimi otomatikleştirir:** Gmail API entegrasyonu ile otomatik e-posta bildirimleri sağlar.  
-- **Güvenliği artırır:** Tüm işlemler ayrıntılı şekilde kayıt altına alınır, izlenebilirlik ve güvenlik sağlanır.  
-- **Kurumsal uyumluluk ve sürdürülebilirlik:** Katmanlı yapı, bakım kolaylığı ve yeni özellik eklemeyi basitleştirir.  
-- **Kullanıcı dostu arayüz:** Windows Forms ile geliştirilen arayüz, teknik olmayan personelin bile rahat kullanımına uygundur.
+- 📧 **Email Notification System**
+  - Automated email notifications using Gmail SMTP integration.
 
----
+- 🔐 **User Authentication & Authorization**
+  - Secure login system with user permission management.
 
-## 3. Kullanılan Teknolojiler
-- **Platform:** Windows Forms (.NET Framework)  
-- **Yapı:** 3 Katmanlı Mimari  
-  - Sunum Katmanı (UI): Kullanıcı ile etkileşim  
-  - İş Katmanı (BLL): İş kuralları ve mantık  
-  - Veri Katmanı (DAL): ADO.NET ile SQL Server erişimi  
-- **Veritabanı:** SQL Server  
-- **Veri Erişimi:** Parametrik sorgular, transaction desteği  
-- **Email Gönderimi:** Gmail API üzerinden SMTP  
-- **Programlama Dili:** C#  
+- 💾 **Database Management**
+  - Centralized data storage using SQL Server.
+  - Efficient data operations with ADO.NET and parameterized queries.
 
----
+- 🏗️ **Layered Architecture**
+  - Developed using a maintainable 3-layer architecture:
+    - **Presentation Layer (UI):** User interface and interaction
+    - **Business Logic Layer (BLL):** Business rules and application logic
+    - **Data Access Layer (DAL):** Database operations and data management
 
-## 4. Windows Forms Tercih Sebebi
-- Hızlı ve verimli masaüstü uygulama geliştirme  
-- Stabil ve performanslı çalışma  
-- Kolay entegrasyon ile kurumsal sistem uyumu  
-- Kullanıcı adaptasyonu kolay, sade arayüz  
+- 🧩 **Reusable Code Structure**
+  - Common functionalities are organized through shared utility classes to improve maintainability and reduce code duplication.
 
----
+## 🛠️ Technologies
 
-## 5. Kod ve Yapı Yönetimi
-Proje mimarisinde kod tekrarını azaltmak ve yaygın işlevlerin merkezi yönetimini sağlamak için `GlobalClasses` isimli bir klasör (namespace) yapılandırılmıştır.
+- C#
+- .NET Framework
+- Windows Forms
+- SQL Server
+- ADO.NET
+- SMTP / Gmail Integration
+- 3-Layer Architecture
+- Object-Oriented Programming (OOP)
+
+## 🎯 Project Goals
+
+- Replace manual license management processes with a digital solution.
+- Improve data accessibility and operational efficiency.
+- Provide a scalable and maintainable enterprise-style application.
