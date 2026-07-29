@@ -1,49 +1,81 @@
-# 🚗 DVLD - Driving & Vehicle License Management System (C#)
+# 🚗 Digital Vehicle & Driver Licensing System
 
-A desktop-based **Driving & Vehicle License Management System** developed with **C# Windows Forms** to digitalize and simplify license management processes.
+**A layered desktop application built with Windows Forms** for managing vehicle registration and driver licensing processes. Database operations are optimized with ADO.NET, and full auditability is achieved through Windows Registry and Event Log integration.
 
-The application provides a structured solution for managing personal records, license operations, user access, and institutional workflows through a scalable **3-Layer Architecture**.
+---
 
-## 🚀 Features
+## ✨ Features
 
-- 👤 **Person Management**
-  - Add, update, delete, search and manage personal information.
+- 🚙 **Vehicle Registration Management** — Register, update, and track vehicle records
+- 🪪 **Driver Licensing Workflow** — Manage the full driver licensing lifecycle
+- 🗄️ **Optimized Data Access** — Direct, high-performance database operations via ADO.NET
+- 🧱 **Three-Layer Architecture** — Clear separation between UI, business logic, and data access
+- 📝 **Windows Event Log Integration** — System-level auditability and traceability of operations
+- 🔧 **Windows Registry Integration** — Persistent application configuration and settings management
 
-- 🪪 **License Management**
-  - Manage driving license-related processes and records.
+---
 
-- 📧 **Email Notification System**
-  - Automated email notifications using Gmail SMTP integration.
+## 🛠️ Tech Stack
 
-- 🔐 **User Authentication & Authorization**
-  - Secure login system with user permission management.
+| Layer | Technologies |
+|---|---|
+| **Application** | .NET Framework (C#), Windows Forms |
+| **Database** | SQL Server, T-SQL, ADO.NET |
+| **Architecture** | Three-Layer (Katmanlı) Architecture |
+| **System Integration** | Windows Registry, Windows Event Log |
 
-- 💾 **Database Management**
-  - Centralized data storage using SQL Server.
-  - Efficient data operations with ADO.NET and parameterized queries.
+---
 
-- 🏗️ **Layered Architecture**
-  - Developed using a maintainable 3-layer architecture:
-    - **Presentation Layer (UI):** User interface and interaction
-    - **Business Logic Layer (BLL):** Business rules and application logic
-    - **Data Access Layer (DAL):** Database operations and data management
+## 🏗️ Architecture
 
-- 🧩 **Reusable Code Structure**
-  - Common functionalities are organized through shared utility classes to improve maintainability and reduce code duplication.
+This project follows a **three-layer architecture**, separating presentation from business rules and data access:
 
-## 🛠️ Technologies
+```
+VehicleLicensingSystem/
+├── Presentation Layer     → Windows Forms (UI)
+├── Business Layer         → Business Rules, Validation
+└── Data Access Layer      → ADO.NET, T-SQL Queries/Procedures
+```
 
-- C#
-- .NET Framework
-- Windows Forms
+---
+
+## 🔍 System Integration Highlights
+
+- **Windows Event Log** — Key operations (registrations, licensing actions, errors) are logged at the OS level, enabling traceability and easier diagnostics in production environments
+- **Windows Registry** — Application settings are persisted at the system level, allowing configuration to survive across sessions without relying on external config files
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- .NET Framework (compatible version installed)
 - SQL Server
-- ADO.NET
-- SMTP / Gmail Integration
-- 3-Layer Architecture
-- Object-Oriented Programming (OOP)
+- Visual Studio 2019/2022
 
-## 🎯 Project Goals
+### Installation
 
-- Replace manual license management processes with a digital solution.
-- Improve data accessibility and operational efficiency.
-- Provide a scalable and maintainable enterprise-style application.
+```bash
+# Clone the repository
+git clone https://github.com/your-username/VehicleLicensingSystem.git
+
+# Navigate to the project directory
+cd VehicleLicensingSystem
+
+# Restore the database
+# Run the provided .sql script(s) against your SQL Server instance
+
+# Open the solution in Visual Studio and build
+```
+
+> 💡 Update the connection string in the app configuration file before running. Some features (Event Log, Registry) may require running with appropriate Windows permissions.
+
+---
+
+## 📬 Contact
+
+Feel free to reach out or open an issue if you have questions or suggestions.
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
